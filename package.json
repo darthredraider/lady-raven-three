@@ -1,6 +1,6 @@
 {
-  "name": "Telegram",
-  "description": "Telegram Web App.\nMore info & source code here: https://github.com/zhukov/webogram",
+  "name": "Raven",
+  "description": "github.com/darthredraider",
   "version": "0.3.9",
   "main": "app/index.html",
   "single-instance": true,
@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhukov/webogram.git"
+    "url": "https://github.com/darthredraider"
   },
   "author": "zhukov",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/zhukov/webogram/issues"
+    "url": "https://github.com/darthredraider"
   },
   "locales": [
     "en-us",
@@ -39,7 +39,7 @@
     "nl-nl",
     "pt-br"
   ],
-  "homepage": "http://zhukov.github.io/webogram",
+  "homepage": "n/a",
   "devDependencies": {
     "event-stream": "^3.1.0",
     "gulp": "~3.5.5",
