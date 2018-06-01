@@ -4,7 +4,7 @@ package:
 	./node_modules/gulp/bin/gulp.js package
 	cp -r dist dist_package
 	find dist_package | grep "\.git\|DS_Store" | xargs rm -rf
-	cd dist_package && zip -r ../releases/webogram_v$(version).zip .
+	cd dist_package && zip -r ../releases/raven$(version).zip .
 
 publish:
 	./node_modules/gulp/bin/gulp.js clean
